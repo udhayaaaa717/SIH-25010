@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
-# Date:29.09.25
-## Register Number:25016208
+# Date: 29.09.25
+## Register Number: 25016208
 ## Name: Udhaya dharshini T
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
